@@ -8,7 +8,7 @@ An AI-powered task planning application that breaks down goals into actionable t
 
 Watch the complete walkthrough and demo:
 
-**[📺 Click here to watch the demo video](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+**[📺 Click here to watch the demo video](https://drive.google.com/file/d/1DOYwmD_IrLN2hJNQVGm2JTt8E7hEY9wT/view?usp=sharing)**
 
 > **Note:** To add your Google Drive video link:
 > 1. Upload your video to Google Drive
@@ -175,11 +175,6 @@ For questions or feedback, please open an issue or reach out via [your email/soc
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Asad**
 ```
-
-## 💻 Demo Video
-
-```markdown
-https://github.com/user/repo/assets/12345/video-id.mp4
 ```
