@@ -121,21 +121,6 @@ smart-task-planner/
 
 ---
 
-## 🖼️ Screenshots
-
-### Create New Plan
-![Create Plan](screenshots/create_plan.png)
-
-### View Projects
-![View Projects](screenshots/view_projects.png)
-
-### Analytics Dashboard
-![Analytics](screenshots/analytics.png)
-
-> **Note:** Add your screenshots to a `screenshots/` folder in your repository
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
