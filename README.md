@@ -10,12 +10,6 @@ Watch the complete walkthrough and demo:
 
 **[📺 Click here to watch the demo video](https://drive.google.com/file/d/1DOYwmD_IrLN2hJNQVGm2JTt8E7hEY9wT/view?usp=sharing)**
 
-> **Note:** To add your Google Drive video link:
-> 1. Upload your video to Google Drive
-> 2. Right-click the video → Share → Change to "Anyone with the link"
-> 3. Copy the shareable link and replace `YOUR_GOOGLE_DRIVE_LINK_HERE` above
-
----
 
 ## ✨ Features
 
